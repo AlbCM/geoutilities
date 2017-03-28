@@ -1,7 +1,7 @@
 GeoUtilities
 ============
 
-A popup menu plugin for Eclipse. 
+A geocoding popup menu plugin for Eclipse. 
 
 Geocoding and reverse geocoding based on active editor selection.
 
